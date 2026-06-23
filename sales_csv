@@ -1,0 +1,11 @@
+Product,Category,Sales,Region
+Laptop,Electronics,55000,North
+Mobile,Electronics,30000,South
+Headphones,Electronics,5000,East
+Chair,Furniture,7000,West
+Table,Furniture,12000,North
+Sofa,Furniture,25000,South
+Shirt,Clothing,2000,East
+Jeans,Clothing,3500,West
+Jacket,Clothing,4500,North
+Watch,Accessories,8000,South
